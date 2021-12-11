@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Surfing on Wavelets</title>
-    <link>https://hugo-theme-texify.qufy.me/</link>
+    <link>https://surfingonwavelets.github.io/</link>
     <description>Recent content on Surfing on Wavelets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Dec 2021 20:07:00 +0100</lastBuildDate><atom:link href="https://hugo-theme-texify.qufy.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Dec 2021 20:07:00 +0100</lastBuildDate><atom:link href="https://surfingonwavelets.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
-      <link>https://hugo-theme-texify.qufy.me/post/first/</link>
+      <link>https://surfingonwavelets.github.io/post/first/</link>
       <pubDate>Sat, 11 Dec 2021 20:07:00 +0100</pubDate>
       
-      <guid>https://hugo-theme-texify.qufy.me/post/first/</guid>
+      <guid>https://surfingonwavelets.github.io/post/first/</guid>
       
       <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title></title>
-      <link>https://hugo-theme-texify.qufy.me/about/</link>
+      <link>https://surfingonwavelets.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-theme-texify.qufy.me/about/</guid>
+      <guid>https://surfingonwavelets.github.io/about/</guid>
       
       <description>&lt;p&gt;About page&lt;/p&gt;
 </description>

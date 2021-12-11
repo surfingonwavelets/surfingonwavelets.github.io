@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Surfing on Wavelets</title>
-    <link>https://hugo-theme-texify.qufy.me/post/</link>
+    <link>https://surfingonwavelets.github.io/post/</link>
     <description>Recent content in Posts on Surfing on Wavelets</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Dec 2021 20:07:00 +0100</lastBuildDate><atom:link href="https://hugo-theme-texify.qufy.me/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Dec 2021 20:07:00 +0100</lastBuildDate><atom:link href="https://surfingonwavelets.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
-      <link>https://hugo-theme-texify.qufy.me/post/first/</link>
+      <link>https://surfingonwavelets.github.io/post/first/</link>
       <pubDate>Sat, 11 Dec 2021 20:07:00 +0100</pubDate>
       
-      <guid>https://hugo-theme-texify.qufy.me/post/first/</guid>
+      <guid>https://surfingonwavelets.github.io/post/first/</guid>
       
       <description></description>
       

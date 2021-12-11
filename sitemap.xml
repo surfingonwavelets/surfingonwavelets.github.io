@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-theme-texify.qufy.me/post/first/</loc>
+    <loc>https://surfingonwavelets.github.io/post/first/</loc>
     <lastmod>2021-12-11T20:07:00+01:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-texify.qufy.me/post/</loc>
+    <loc>https://surfingonwavelets.github.io/post/</loc>
     <lastmod>2021-12-11T20:07:00+01:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-texify.qufy.me/</loc>
+    <loc>https://surfingonwavelets.github.io/</loc>
     <lastmod>2021-12-11T20:07:00+01:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-texify.qufy.me/about/</loc>
+    <loc>https://surfingonwavelets.github.io/about/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://hugo-theme-texify.qufy.me/categories/</loc>
+    <loc>https://surfingonwavelets.github.io/categories/</loc>
   </url><url>
-    <loc>https://hugo-theme-texify.qufy.me/tags/</loc>
+    <loc>https://surfingonwavelets.github.io/tags/</loc>
   </url>
 </urlset>
