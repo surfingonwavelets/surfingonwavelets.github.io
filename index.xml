@@ -14,7 +14,40 @@
       
       <guid>https://surfingonwavelets.github.io/post/first/</guid>
       
-      <description></description>
+      <description>&lt;p&gt;Hello, this is the first post in this website.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m trying to explore the possibilities this hugo template provides to me.&lt;/p&gt;
+&lt;h3 id=&#34;math-typesetting&#34;&gt;Math typesetting&lt;/h3&gt;
+&lt;p&gt;Latex based mathematics typesetting is one of the main reason I&amp;rsquo;m using this template.
+It provides me a nice opportunity to write a simple blog about mathematics focusing on the
+content instead of the technical implementations.&lt;/p&gt;
+&lt;p&gt;So, lets see an example:&lt;/p&gt;
+&lt;p&gt;Here is some inline math: $T : \Omega \rightarrow \mathbb{R}$&lt;/p&gt;
+&lt;p&gt;$$
+\mu(\Omega) = \int_{\Omega} T(x) dx
+$$&lt;/p&gt;
+&lt;h3 id=&#34;lets-try-some-quotes-alpha_0---beta_0&#34;&gt;Let&amp;rsquo;s try some quotes $\alpha_0  + \beta_0$&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a quote block, let&amp;rsquo;s $g$ be a continous function, $ f : \mathbb{R} \rightarrow \mathbb{K} $.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;$$
+f(x) = \int_a^b g(t) dt
+$$&lt;/p&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;First a &lt;code&gt;C++&lt;/code&gt; code&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-C++&#34; data-lang=&#34;C++&#34;&gt;&lt;span class=&#34;k&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;typename&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;T1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;typename&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;T2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;n&#34;&gt;func&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;T1&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;arg1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;T2&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;arg2&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;operation&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;arg1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;arg2&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;
+&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Second see a &lt;code&gt;Python&lt;/code&gt; code&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Python&#34; data-lang=&#34;Python&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;numpy&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;np&lt;/span&gt;
+
+&lt;span class=&#34;n&#34;&gt;arr1&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;np&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;array&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;([[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]])&lt;/span&gt;
+
+&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;func&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;():&lt;/span&gt;
+    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
       
     </item>
     
@@ -25,7 +58,10 @@
       
       <guid>https://surfingonwavelets.github.io/about/</guid>
       
-      <description>&lt;p&gt;About page&lt;/p&gt;
+      <description>&lt;h1 id=&#34;welcome-here-fellow-wavelet-surfer&#34;&gt;Welcome here fellow wavelet surfer!&lt;/h1&gt;
+&lt;h2 id=&#34;what-is-this-blog-about&#34;&gt;What is this blog about?&lt;/h2&gt;
+&lt;p&gt;This blog is mostly about applied and computational mathematics, with a specific focus on harmonic analysis and its applications for signal processing.&lt;/p&gt;
+&lt;p&gt;I will present topics which I&amp;rsquo;m willing to explore, learn and share. Because sharing and presenting knowledge in a clear way is just as fun as learning.&lt;/p&gt;
 </description>
       
     </item>
